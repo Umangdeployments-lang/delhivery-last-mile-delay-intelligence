@@ -14,8 +14,8 @@ The pipeline runs entirely offline using standard open-source Python libraries. 
 
 Clone the repository and install the exact pinned dependencies:
 ```bash
-git clone https://github.com/<user>/<repo>.git
-cd <repo>
+git clone https://github.com/Umangdeployments-lang/delhivery-last-mile-delay-intelligence.git
+cd delhivery-last-mile-delay-intelligence
 pip install -r requirements.txt
 ```
 
